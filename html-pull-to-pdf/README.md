@@ -1,5 +1,3 @@
-Got you — here’s a clean, step-by-step `README.md` you can copy and reuse:
-
 ---
 
 ## 📚 CST8305 Slides — Local Backup & PDF Export
